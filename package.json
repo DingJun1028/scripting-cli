@@ -44,7 +44,7 @@
     "@types/node": "^22.13.4",
     "@types/qrcode-terminal": "^0.12.2",
     "@types/socket.io": "^3.0.2",
-    "@types/yargs": "^17.0.33",
+    "@types/yargs": "^17.0.35",
     "ts-node": "^10.9.2"
   }
 }
