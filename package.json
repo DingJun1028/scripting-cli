@@ -27,10 +27,10 @@
     "url": "https://github.com/thomfang/scripting-cli/issues"
   },
   "dependencies": {
-    "bonjour": "^3.5.0",
+    "bonjour": "^3.5.1",
     "chalk": "^4.1.2",
     "chokidar": "^4.0.3",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "ip": "^2.0.1",
     "qrcode-terminal": "^0.12.0",
     "socket.io": "^4.8.1",
